@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/sudoku-solver-and-assistant-216378-216392/sudoku_frontend"
+}
